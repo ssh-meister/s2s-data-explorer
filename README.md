@@ -5,7 +5,7 @@ A small Panel-based web app for browsing large collections of text-to-speech (TT
 ## Features
 
 * Filter conversations by number of turns and total duration.
-* Paginated list (500 per page) – handles manifests with 100 k+ entries.
+* Paginated list (25 per page) – handles manifests with 100 k+ entries.
 * Inline playback of whole-dialogue audio **and** per-turn snippets (if available).
 * Hover over any bubble for full turn metadata.
 
