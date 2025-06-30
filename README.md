@@ -47,4 +47,4 @@ The *per-conversation* manifest referenced by `metadata_path` should itself cont
 * The page slider in the sidebar lets you navigate through batches of conversations without overwhelming the browser.
 
 ---
-© 2025 TTS Chat Explorer 
+© 2025 S2S Chat Explorer 
