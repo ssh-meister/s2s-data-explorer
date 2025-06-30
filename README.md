@@ -2,6 +2,8 @@
 
 A small Panel-based web app for browsing large collections of text-to-speech (TTS) dialogues with synchronous audio playback.
 
+![UI](ui.png)
+
 ## Features
 
 * Filter conversations by number of turns and total duration.
