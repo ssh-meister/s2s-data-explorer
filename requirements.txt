@@ -1,0 +1,3 @@
+panel>=1.7
+# watchfiles improves --autoreload experience but is optional
+watchfiles>=0.21 
